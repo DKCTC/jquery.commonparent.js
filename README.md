@@ -1,6 +1,7 @@
 # jquery.commonparent.js
 jQuery plugin for finding a common parent element from a set of elements
 
+Requires **jQuery** - tested on 3.3.1
 
 ## Usage:
 
