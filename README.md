@@ -3,6 +3,10 @@ jQuery plugin for finding a common parent element from a set of elements
 
 Requires **jQuery** - tested on 3.3.1
 
+Tested through **Chrome 72**
+
+Originally designed to be used in a Chrome extension content script. If you find issues in other browsers, please submit an issue [here](https://github.com/dkline03/jquery.commonparent.js/issues).
+
 ## Usage:
 
 **Return the parent element that is closest to the elements in the collection:**
