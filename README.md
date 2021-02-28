@@ -5,7 +5,7 @@ Requires **jQuery** - tested on 3.3.1
 
 Tested through **Chrome 72**
 
-Originally designed to be used in a Chrome extension content script. If you find issues in other browsers, please submit an issue [here](https://github.com/dkline03/jquery.commonparent.js/issues).
+Originally designed to be used in a Chrome extension content script. If you find issues in other browsers, please submit an issue [here](https://github.com/DKCTC/jquery.commonparent.js/issues).
 
 ## Usage:
 
@@ -35,7 +35,7 @@ Please submit an issue.
 
 ## License
 
-Copyright (c) 2019 dkline03
+Copyright (c) 2021 DKCTC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
