@@ -11,19 +11,19 @@ Originally designed to be used in a Chrome extension content script. If you find
 
 **Return the parent element that is closest to the elements in the collection:**
 
-```
+```javascript
 $('.element-class').commonParent();
 ```
 
 **Return all of the parents going all the way up the DOM tree:**
 
-```
+```javascript
 $('.element-class').commonParents();
 ```
 
 **Exclude the matched elements from the return result in case one of the elements in the collection is the parent of the rest (return the parent of that element instead of that element itself):**
 
-```
+```javascript
 $('.element-class').commonParent(true);
 $('.element-class').commonParents(true);
 ```
